@@ -35,12 +35,10 @@
 
 ---
 
-## 🐍 Jogo da cobrinha
-
 ![Snake animation](https://github.com/IgorPinheiro/IgorPinheiro/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
 
 ✨ _“A tecnologia é a ponte entre o presente e o futuro que podemos construir.”_ ✨
+
 
