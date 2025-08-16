@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Igor Pinheiro  
+# 👋 Olá, me chamo Igor Pinheiro  
 
 🎓 Formado em **Redes de Computadores**  
 💻 Apaixonado por **Programação, Automação e Segurança da Informação**  
@@ -38,6 +38,7 @@
 ## 🐍 Jogo da cobrinha
 
 ![Snake animation](https://github.com/IgorPinheiro/IgorPinheiro/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
