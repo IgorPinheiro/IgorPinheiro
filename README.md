@@ -37,7 +37,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
+=======
 ---
 
 ✨ _“A tecnologia é a ponte entre o presente e o futuro que podemos construir.”_ ✨
+
 
