@@ -26,6 +26,10 @@
 ![Redes](https://img.shields.io/badge/Redes%20de%20Computadores-0052CC?style=for-the-badge&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![IA](https://img.shields.io/badge/Inteligência%20Artificial-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Segurança](https://img.shields.io/badge/Segurança%20da%20Informação-4CAF50?style=for-the-badge&logo=kalilinux&logoColor=white)
 
@@ -43,6 +47,7 @@
 ---
 
 ✨ _“A tecnologia é a ponte entre o presente e o futuro que podemos construir.”_ ✨
+
 
 
 
