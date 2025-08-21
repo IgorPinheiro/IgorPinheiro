@@ -32,6 +32,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![IA](https://img.shields.io/badge/Inteligência%20Artificial-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Segurança](https://img.shields.io/badge/Segurança%20da%20Informação-4CAF50?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ruggedcom](https://img.shields.io/badge/Ruggedcom-003366?style=for-the-badge&logo=siemens&logoColor=white)
 
 ---
 
@@ -47,6 +48,7 @@
 ---
 
 ✨ _“A tecnologia é a ponte entre o presente e o futuro que podemos construir.”_ ✨
+
 
 
 
